@@ -1,6 +1,4 @@
-## 湖南怀化地方电视台网络源
-
-怀化地方台的官方App支持本地电视台的直播。该项目通过反编译官方App获取密钥，动态生成地方频道的直播链接，并通过302重定向将用户导向生成的直播链接。
+## 部分地区电视台网络源
 
 ## 使用说明
 
@@ -16,6 +14,21 @@ python main.py
 http://ip:10492/zonghe
 
 # 怀化公共频道
-http://ip:10492/zonghe
+http://ip:10492/gonggong
+
+# Now 新闻频道
+http://ip:10492/now_news
+
+# Now 财经频道
+http://ip:10492/now_business
+
+# Viu
+http://ip:10492/viu
+
+# Viu 6
+http://ip:10492/viu_six
+
+# HBO HK
+http://ip:10492/hbo_hk
 ```
 
